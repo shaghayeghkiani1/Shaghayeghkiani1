@@ -25,7 +25,7 @@ I enjoy approaching real-world problems through the full machine learning workfl
 
 ### 🚀 Selected Projects
 - **[Car Price Prediction](https://github.com/shaghayeghkiani1/Car-price-prediction-project)** — Predictive modeling of vehicle selling prices using regression techniques and model evaluation.
-- **Bank Personal Loan Prediction** — A classification project focused on identifying customers' likelihood of accepting a personal loan.
+- **[Bank Personal Loan Prediction](https://github.com/shaghayeghkiani1/Bank-project)** — A classification project focused on predicting customers' likelihood of accepting a personal loan.
 
 ### 🎯 Professional Focus
 Building practical AI and machine learning applications, developing reliable predictive models, and applying data-driven methods to solve real-world challenges.
