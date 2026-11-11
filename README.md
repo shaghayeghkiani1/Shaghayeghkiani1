@@ -1,32 +1,35 @@
-# Hi, I'm Shaghayegh Kiani 👋
+# Shaghayegh Kiani
 
-### Machine Learning & Data Analysis
+### AI Engineer | Machine Learning | Python
 
-I'm a Computer Science learner interested in using data and machine learning to solve practical problems. I enjoy building projects, exploring datasets, and understanding how models work — from preprocessing to evaluation.
+I work at the intersection of artificial intelligence, machine learning, and data-driven problem solving. My focus is on developing machine learning solutions, building predictive models, and turning data into meaningful insights.
+
+I enjoy approaching real-world problems through the full machine learning workflow — from data preparation and feature engineering to model development, evaluation, and performance comparison.
 
 ---
 
-### 🧠 What I'm Learning
-- Python for data analysis
-- Machine Learning (regression and classification)
-- Data preprocessing and feature engineering
-- Model evaluation and comparison
-- Practical applications of AI
+### 🤖 Core Areas
+- Artificial Intelligence & Machine Learning
+- Supervised Learning: Regression and Classification
+- Predictive Modeling
+- Data Analysis and Visualization
+- Data Preprocessing & Feature Engineering
+- Model Evaluation and Optimization
 
-### 🛠️ Tools & Technologies
-- **Languages:** Python
-- **Data Analysis:** Pandas, NumPy
+### 🛠️ Technologies
+- **Programming:** Python
+- **Data Science:** Pandas, NumPy
 - **Machine Learning:** Scikit-learn
 - **Visualization:** Matplotlib, Seaborn
-- **Environment:** Jupyter Notebook
+- **Development Environment:** Jupyter Notebook
 
-### 📂 Projects
-- **[Car Price Prediction](https://github.com/shaghayeghkiani1/Car-price-prediction-project)** — A machine learning project focused on exploring car data and predicting selling prices using regression models.
-- **Bank Personal Loan Prediction** — A classification project exploring customer data and predicting personal loan acceptance.
+### 🚀 Selected Projects
+- **[Car Price Prediction](https://github.com/shaghayeghkiani1/Car-price-prediction-project)** — Predictive modeling of vehicle selling prices using regression techniques and model evaluation.
+- **Bank Personal Loan Prediction** — A classification project focused on identifying customers' likelihood of accepting a personal loan.
 
-### 🌱 Currently
-I'm strengthening my machine learning foundations and building hands-on projects to grow as an AI and data-focused developer.
+### 🎯 Professional Focus
+Building practical AI and machine learning applications, developing reliable predictive models, and applying data-driven methods to solve real-world challenges.
 
 ---
 
-*Always learning, building, and improving — one project at a time.*
+**AI • Machine Learning • Data-Driven Solutions**
